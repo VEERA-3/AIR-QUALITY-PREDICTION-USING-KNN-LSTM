@@ -12,14 +12,14 @@ In our proposed system for air quality prediction, we will leverage advanced mac
 patterns, adapting to changing environmental factors, and delivering accurate predictions.
 
 # Key Features of my Proposed System
-# 1. Real-Time Data Collection
-# 2. Data Preprocessing
-# 3. Machine Learning Model Selection
-# 4. Environmental Impact Assessment 
-# 5. Model Training and Validation
-# 6. Integration with User Interface
+ 1. Real-Time Data Collection
+ 2. Data Preprocessing
+ 3. Machine Learning Model Selection
+ 4. Environmental Impact Assessment 
+ 5. Model Training and Validation
+ 6. Integration with User Interface
 
 # Expected Benefits 
-# 1. Improved Accuracy
-# 2. Timely Warnings and Alerts
-# 3. Environmental Impact Assessment
+ 1. Improved Accuracy
+ 2. Timely Warnings and Alerts
+ 3. Environmental Impact Assessment
